@@ -147,3 +147,17 @@ Validation: ATMs and nodes serve as the infrastructure's backbone, ensuring netw
 11. GOVERNANCE MODEL
 
 European Central Bank (ECB): Retains full authority over monetary policy and Issuance.
+---------
+---
+
+### **Intellectual Property & Strategic Copyright Notice**
+**© 2026 Strategic Framework for Digital Euro (DE). All Rights Reserved.**
+
+This strategic framework, encompassing its architectural design, economic impact analysis, and implementation roadmap for the Digital Euro, is the exclusive intellectual property of the author. 
+
+**Restrictions:**
+* No part of this framework may be copied, redistributed, or utilized for institutional, governmental, or commercial purposes without explicit written authorization from the owner.
+* Unauthorized adaptation or claims of authorship over these concepts are strictly prohibited and protected by international intellectual property standards.
+
+**Official Record:** This document is digitally timestamped and secured via GitHub's version control system, establishing an immutable proof of origin.
+
